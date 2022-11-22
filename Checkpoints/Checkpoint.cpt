@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/amazonTestData</source-url>
+   </source-info>
+   <taken-date>2022-11-22T09:20:59.427</taken-date>
+   <column-names>
+      <column-name>searchItem</column-name>
+      <column-name>expected</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "kindle",
+      "checked": true
+    },
+    {
+      "value": "\"kindle\"",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "macbook",
+      "checked": true
+    },
+    {
+      "value": "\"macbook\"",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "mazda",
+      "checked": true
+    },
+    {
+      "value": "\"mazda\"",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

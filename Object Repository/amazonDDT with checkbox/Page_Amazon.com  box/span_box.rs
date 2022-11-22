@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_box</name>
+   <tag></tag>
+   <elementGuidId>5f46ff9c-36fb-4b4c-99c6-7eaef940dc8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/span/div/h1/div/div/div/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-color-state.a-text-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acf53c58-31c0-476c-a56a-c660f7adedb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-color-state a-text-bold</value>
+      <webElementGuid>163e51d5-9739-4902-8675-d470eefc275d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&quot;box&quot;</value>
+      <webElementGuid>88f454b2-6fe6-48ec-b9cf-5c3a6c591d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/span[@class=&quot;rush-component&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=UPPER template=RESULT_INFO_BAR widgetId=result-info-bar&quot;]/h1[@class=&quot;a-size-base s-desktop-toolbar a-text-normal&quot;]/div[@class=&quot;s-desktop-width-max sg-row-align-items-center s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-14-of-20 sg-col-18-of-24 sg-col s-breadcrumb sg-col-10-of-16 sg-col-6-of-12&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/span[@class=&quot;a-color-state a-text-bold&quot;]</value>
+      <webElementGuid>3e0525e2-e6ef-440e-83f8-c42c19ce309f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/span/div/h1/div/div/div/div/span[3]</value>
+      <webElementGuid>ec2b45da-ca08-4e61-86cc-00099e707191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop great deals now'])[1]/following::span[4]</value>
+      <webElementGuid>b1b02390-d99d-4d2c-a1aa-e4572049cdb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disability Customer Support'])[1]/following::span[4]</value>
+      <webElementGuid>e93f49a0-3aaa-4eaa-b1b9-a1f49bd8ff8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by:'])[1]/preceding::span[1]</value>
+      <webElementGuid>c31f81b3-2eab-4bdf-9e0f-c8871465d410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by:'])[2]/preceding::span[1]</value>
+      <webElementGuid>9e5701ff-8114-45be-a271-dcce44e9b382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&quot;box&quot;']/parent::*</value>
+      <webElementGuid>25595e93-49ce-489a-9233-f39f6f628365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[3]</value>
+      <webElementGuid>2d4ea4eb-bb08-41fb-b2fa-f19f80d934cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&quot;box&quot;' or . = '&quot;box&quot;')]</value>
+      <webElementGuid>ab404edf-4bd4-4439-b66b-bd6c896ba6eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
